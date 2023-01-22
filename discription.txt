@@ -1,0 +1,2 @@
+use sklearn to generate the pca matrix
+no longer concat the one or zero
